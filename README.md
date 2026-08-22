@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Homelab+enthusiast+%E2%80%A2+Automation+tinkerer+%E2%80%A2+PWA+builder;If+I+do+it+twice%2C+it+becomes+a+script;Running+%7E20+self-hosted+services+on+Ubuntu+%2B+CasaOS+%2B+Docker;Building+tools+for+mosque%2C+coffee+cart+and+everyday+life&font=Fira+Code&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=800&height=55" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Homelab+enthusiast+%E2%80%A2+Automation+tinkerer+%E2%80%A2+PWA+builder;If+I+do+it+twice%2C+it+becomes+a+script;Running+%7E20+self-hosted+services+on+Ubuntu+%2B+CasaOS+%2B+Docker;Building+tools+for+mosque%2C+and+everyday+life&font=Fira+Code&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=800&height=55" alt="Typing SVG" /></a>
 
 <p><strong><span style="font-size: 1.6em;">Safwan (Kengkorok)</span></strong></p>
 
