@@ -40,9 +40,9 @@
 ## 🧑‍💻 About me
 
 - 🏠 Run a self-hosted homelab with ~20 services on an Ubuntu server (CasaOS + Docker + Tailscale)
-- 🕌 Volunteer at **Masjid Talhah** — build the monthly report generator and kuliah schedule posters
-- ☕ Analysing costing & margins for a carboot coffee cart (profit per cup matters!)
-- ⚙️ I love automating daily things — if I do it twice, it becomes a script
+- 🎮 I love gaming - especially Pokemon related (except TCG, UNITE)
+- 🕌 Volunteer at **Masjid Talhah** - build the monthly report generator and kuliah schedule posters
+- ⚙️ I love automating daily things - if I do it twice, it becomes a script
 - 🌱 Always learning: Docker networking, n8n workflows, PWA development
 
 
