@@ -7,6 +7,7 @@
 <p>
     <a href="https://github.com/Kengkorok" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="https://kengkorok.github.io/Auto-Services-Tracker/" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-38BDF8?style=flat-square&logo=googlechrome&logoColor=white" alt="Live Demo" /></a>
+    <a href="https://ko-fi.com/kengkorok" target="_blank"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" /></a>
     <img src="https://komarev.com/ghpvc/?username=Kengkorok&style=flat-square&color=38BDF8&label=views" alt="Profile Views" />
 </p>
 
