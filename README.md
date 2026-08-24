@@ -3,11 +3,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Homelab+enthusiast+%E2%80%A2+Automation+tinkerer+%E2%80%A2+PWA+builder;If+I+do+it+twice%2C+it+becomes+a+script;Running+%7E20+self-hosted+services+on+Ubuntu+%2B+CasaOS+%2B+Docker;Building+tools+for+mosque%2C+and+everyday+life&font=Fira+Code&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=800&height=55" alt="Typing SVG" /></a>
 
 <p><strong><span style="font-size: 1.6em;">Safwan (Kengkorok)</span></strong></p>
-
+<p><a href="https://ko-fi.com/kengkorok" target="_blank"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" /></a></p>
 <p>
     <a href="https://github.com/Kengkorok" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="https://kengkorok.github.io/Auto-Services-Tracker/" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-38BDF8?style=flat-square&logo=googlechrome&logoColor=white" alt="Live Demo" /></a>
-    <a href="https://ko-fi.com/kengkorok" target="_blank"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" /></a>
     <img src="https://komarev.com/ghpvc/?username=Kengkorok&style=flat-square&color=38BDF8&label=views" alt="Profile Views" />
 </p>
 
