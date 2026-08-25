@@ -31,7 +31,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kengkorok&theme=github-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+[![Safwan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kengkorok&theme=tokyo-night)](https://github.com/Kengkorok/github-readme-activity-graph)
 
 </div>
 
