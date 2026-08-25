@@ -52,7 +52,7 @@
 
 ![Safwan's GitHub summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kengkorok&theme=tokyonight)
 
-![Safwan's GitHub streak](https://streak-stats.demolab.com/?user=Kengkorok&theme=tokyonight&hide_border=true)
+![Safwan's GitHub streak](https://github-readme-stats-fast.vercel.app/api/streak?username=Kengkorok&theme=tokyonight&hide_border=true)
 
 </div>
 
