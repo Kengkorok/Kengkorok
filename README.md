@@ -31,7 +31,7 @@
 
 <div align="center">
 
-[![Safwan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kengkorok&theme=react-dark)](https://github.com/Kengkorok/github-readme-activity-graph)
+[![Safwan's github activity graph](https://activity-graph-pink.vercel.app/graph?username=Kengkorok&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 </div>
 
