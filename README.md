@@ -14,11 +14,67 @@
 
 <hr>
 
+## 🧑‍💻 About me
+
+- 🏠 Run a self-hosted homelab with ~20 services on an Ubuntu server (CasaOS + Docker + Tailscale)
+- 🎮 I love gaming - especially Pokemon related (except TCG, UNITE)
+- 🕌 Volunteer at **Masjid Talhah** - build the monthly report generator and kuliah schedule posters
+- ⚙️ I love automating daily things - if I do it twice, it becomes a script
+- 🌱 Always learning: Docker networking, n8n workflows, PWA development
+
+---
+
+## 📌 Pinned projects
+
+### 🌊 [pogo-wave-radar](https://github.com/Kengkorok/pogo-wave-radar)
+Never miss a Pokémon GO event — chase the event wave across time zones, pick a city, copy coords, spoof!
+
+`Python` · `JavaScript` · `GitHub Actions`
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kengkorok.github.io/pogo-wave-radar/)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kengkorok/pogo-wave-radar)
+
+### 🚗 [Auto-Services-Tracker](https://github.com/Kengkorok/Auto-Services-Tracker)
+PWA for vehicle maintenance — log mileage, set custom service intervals, track when your next service is due.
+
+`JavaScript` · `Firebase` · `GitHub Pages`
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kengkorok.github.io/Auto-Services-Tracker/)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kengkorok/Auto-Services-Tracker)
+
+### 🕋 [jadual-kuliah-generator](https://github.com/Kengkorok/jadual-kuliah-generator)
+Interactive lecture schedule creator for mosques — plan the monthly kuliah roster with ease.
+
+`HTML` · `JavaScript`
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kengkorok/jadual-kuliah-generator)
+
+### 🕌 [masjid-talhah-report](https://github.com/Kengkorok/masjid-talhah-report)
+Monthly JAWI Excel report generator + jadual kuliah poster generator, built as a volunteer for Masjid Talhah.
+
+`Python` · `Excel`
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kengkorok/masjid-talhah-report)
+
+### 🤖 [bilal-reminder](https://github.com/Kengkorok/bilal-reminder)
+Discord bot that reminds the bilal team of JAKIM prayer times and the weekly duty roster at the mosque.
+
+`Python` · `Discord`
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kengkorok/bilal-reminder)
+
+---
+
+## 🛠️ Tech stack
+
 <div align="center">
 
-![Tech Stack](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Languages** &nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+**Platforms & Tools** &nbsp;
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-24292F?style=for-the-badge&logo=tailscale&logoColor=white)
@@ -37,22 +93,17 @@
 
 <hr>
 
-## 🧑‍💻 About me
-
-- 🏠 Run a self-hosted homelab with ~20 services on an Ubuntu server (CasaOS + Docker + Tailscale)
-- 🎮 I love gaming - especially Pokemon related (except TCG, UNITE)
-- 🕌 Volunteer at **Masjid Talhah** - build the monthly report generator and kuliah schedule posters
-- ⚙️ I love automating daily things - if I do it twice, it becomes a script
-- 🌱 Always learning: Docker networking, n8n workflows, PWA development
-
-
 ## 📊 GitHub stats
 
 <div align="center">
 
 ![Safwan's GitHub summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kengkorok&theme=tokyonight)
 
+![Safwan's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Kengkorok&theme=tokyonight&hide_border=true)
+
 ![Safwan's GitHub streak](https://github-readme-stats-fast.vercel.app/api/streak?username=Kengkorok&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=Kengkorok&theme=tokyonight&layout=compact&hide_border=true)
 
 </div>
 
