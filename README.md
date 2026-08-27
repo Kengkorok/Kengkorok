@@ -26,7 +26,7 @@
 
 ## 📌 Pinned projects
 
-### 🌊 [pogo-wave-radar](https://github.com/Kengkorok/pogo-wave-radar)
+### 🌊 [PoGo-wave-radar](https://github.com/Kengkorok/pogo-wave-radar)
 Never miss a Pokémon GO event — chase the event wave across time zones, pick a city, copy coords, spoof!
 
 `Python` · `JavaScript` · `GitHub Actions`
@@ -46,22 +46,6 @@ PWA for vehicle maintenance — log mileage, set custom service intervals, track
 Interactive lecture schedule creator for mosques — plan the monthly kuliah roster with ease.
 
 `HTML` · `JavaScript`
-
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kengkorok/jadual-kuliah-generator)
-
-### 🕌 [masjid-talhah-report](https://github.com/Kengkorok/masjid-talhah-report)
-Monthly JAWI Excel report generator + jadual kuliah poster generator, built as a volunteer for Masjid Talhah.
-
-`Python` · `Excel`
-
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kengkorok/masjid-talhah-report)
-
-### 🤖 [bilal-reminder](https://github.com/Kengkorok/bilal-reminder)
-Discord bot that reminds the bilal team of JAKIM prayer times and the weekly duty roster at the mosque.
-
-`Python` · `Discord`
-
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kengkorok/bilal-reminder)
 
 ---
 
