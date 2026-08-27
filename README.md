@@ -47,6 +47,8 @@ Interactive lecture schedule creator for mosques — plan the monthly kuliah ros
 
 `HTML` · `JavaScript`
 
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kengkorok/jadual-kuliah-generator)
+
 ---
 
 ## 🛠️ Tech stack
