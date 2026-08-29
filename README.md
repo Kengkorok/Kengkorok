@@ -24,30 +24,12 @@
 
 ---
 
-## 📌 Pinned projects
+## Ongoing projects
 
 ### 🌊 [PoGo-wave-radar](https://github.com/Kengkorok/pogo-wave-radar)
 Never miss a Pokémon GO event — chase the event wave across time zones, pick a city, copy coords, spoof!
 
 `Python` · `JavaScript` · `GitHub Actions`
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kengkorok.github.io/pogo-wave-radar/)
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kengkorok/pogo-wave-radar)
-
-### 🚗 [Auto-Services-Tracker](https://github.com/Kengkorok/Auto-Services-Tracker)
-PWA for vehicle maintenance — log mileage, set custom service intervals, track when your next service is due.
-
-`JavaScript` · `Firebase` · `GitHub Pages`
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kengkorok.github.io/Auto-Services-Tracker/)
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kengkorok/Auto-Services-Tracker)
-
-### 🕋 [jadual-kuliah-generator](https://github.com/Kengkorok/jadual-kuliah-generator)
-Interactive lecture schedule creator for mosques — plan the monthly kuliah roster with ease.
-
-`HTML` · `JavaScript`
-
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kengkorok/jadual-kuliah-generator)
 
 ---
 
